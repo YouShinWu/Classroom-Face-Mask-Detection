@@ -1,0 +1,1 @@
+This project using YOLOv4 on webcam to detect how many people in classroom and who doesn't wear face mask. 
