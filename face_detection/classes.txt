@@ -1,0 +1,2 @@
+person_no_mask
+person_with_mask
